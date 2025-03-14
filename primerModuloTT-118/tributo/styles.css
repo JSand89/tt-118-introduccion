@@ -1,0 +1,25 @@
+
+.personaje{
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+width: 30%;}
+
+/* .personajes{
+    display: flex;
+    align-items: start;    
+} */
+img{
+    display: flex;
+    height: 200px;
+    position: relative;
+    left:70%;
+    margin: 30px;
+    z-index:-1;
+}
+p{
+    border:solid;
+    border-radius: 10% 30%;
+    padding: 30px;
+    margin: 15px;
+}
